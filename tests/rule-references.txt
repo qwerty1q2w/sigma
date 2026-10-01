@@ -4149,3 +4149,15 @@ https://cloud.google.com/access-context-manager/docs/audit-logging
 https://github.com/vari-sh/RedTeamGrimoire/tree/668e0357072546065729ad623f8c02f7be21bb08/Doppelganger
 https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#impossible-travel
 https://www.elastic.co/guide/en/security/current/linux-restricted-shell-breakout-via-linux-binary-s.html
+https://github.com/The-Viper-One/Invoke-PowerDPAPI/
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731935(v=ws.11)
+https://medium.com/falconforce/soaphound-tool-to-collect-active-directory-data-via-adws-165aca78288c
+https://research.splunk.com/endpoint/7215831c-8252-4ae3-8d43-db588e82f952
+https://man7.org/linux/man-pages/man2/syslog.2.html
+https://learn.microsoft.com/en-us/windows/package-manager/winget/install#local-install
+https://github.com/logangoins/Krueger/tree/main
+https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/Privileged%20container/
+https://wazuh.com/blog/how-to-detect-meshagent-with-wazuh/
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4741
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4625
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-identity-roles.html
