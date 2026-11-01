@@ -4149,3 +4149,13 @@ https://cloud.google.com/access-context-manager/docs/audit-logging
 https://github.com/vari-sh/RedTeamGrimoire/tree/668e0357072546065729ad623f8c02f7be21bb08/Doppelganger
 https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#impossible-travel
 https://www.elastic.co/guide/en/security/current/linux-restricted-shell-breakout-via-linux-binary-s.html
+https://github.com/wietze/HijackLibs/tree/dc9c9f2f94e6872051dab58fbafb043fdd8b4176/yml/3rd_party/python
+https://web.archive.org/web/20210629055600/https://github.com/hhlxf/PrintNightmare/
+https://news.ycombinator.com/item?id=29504755
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731935(v=ws.11)
+https://labs.yarix.com/2025/06/doppelganger-an-advanced-lsass-dumper-with-process-cloning/
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-identity-roles.html
+https://www.aon.com/cyber-solutions/aon_cyber_labs/yours-truly-signed-av-driver-weaponizing-an-antivirus-driver/
+https://www.hexacorn.com/blog/2013/09/19/beyond-good-ol-run-key-part-4/
+https://f5-sdk.readthedocs.io/en/latest/apidoc/f5.bigip.tm.util.html#module-f5.bigip.tm.util.bash
+https://learn.microsoft.com/en-us/windows/win32/shell/launch
