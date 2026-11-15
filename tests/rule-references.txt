@@ -4149,3 +4149,13 @@ https://cloud.google.com/access-context-manager/docs/audit-logging
 https://github.com/vari-sh/RedTeamGrimoire/tree/668e0357072546065729ad623f8c02f7be21bb08/Doppelganger
 https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#impossible-travel
 https://www.elastic.co/guide/en/security/current/linux-restricted-shell-breakout-via-linux-binary-s.html
+https://www.zscaler.fr/blogs/security-research/threat-actors-exploit-cve-2017-11882-deliver-agent-tesla
+https://tria.ge/240226-fhbe7sdc39/behavioral1
+https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1490/T1490.md#atomic-test-12---disable-time-machine
+https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/reagentc-command-line-options?view=windows-11
+https://web.archive.org/web/20180203014709/https://blog.alsid.eu/dcshadow-explained-4510f52fc19d?gi=c426ac876c48
+https://goodworkaround.com/2022/02/15/digging-into-azure-ad-certificate-based-authentication/
+https://learn.microsoft.com/en-us/windows/client-management/mdm/policy-csp-windowsai#disableaidataanalysis
+https://winaero.com/how-to-delete-scan-with-windows-defender-from-context-menu-in-windows-10/
+https://www.howtogeek.com/137270/50-file-extensions-that-are-potentially-dangerous-on-windows
+https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-monitor-federation-changes
